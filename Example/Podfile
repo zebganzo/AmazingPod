@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AmazingPod_Example' do
+  pod 'AmazingPod', :path => '../'
+
+  target 'AmazingPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
