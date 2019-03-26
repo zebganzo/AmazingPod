@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'AmazingPod/Classes/**/*'
+  s.swift_version = '4.2'
   
   # s.resource_bundles = {
   #   'AmazingPod' => ['AmazingPod/Assets/*.png']
