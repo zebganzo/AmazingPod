@@ -1,0 +1,6 @@
+framework module AmazingPod {
+  umbrella header "AmazingPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

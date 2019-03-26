@@ -29,10 +29,10 @@
 
 /* Begin PBXFileReference section */
 		24C6485203D85CC7CD90F49B /* Pods_AmazingPod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AmazingPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		24CD8973D3D04662542AD3E2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		24CD8973D3D04662542AD3E2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		255BC727E0A2DBBECF791ACA /* Pods_AmazingPod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AmazingPod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		44E72DC9D282B87907EC16FE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		4DD9E3AE927B843BED294055 /* AmazingPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = AmazingPod.podspec; path = ../AmazingPod.podspec; sourceTree = "<group>"; };
+		44E72DC9D282B87907EC16FE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4DD9E3AE927B843BED294055 /* AmazingPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = AmazingPod.podspec; path = ../AmazingPod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		56193637D68C914F8983B144 /* Pods-AmazingPod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmazingPod_Example.release.xcconfig"; path = "Target Support Files/Pods-AmazingPod_Example/Pods-AmazingPod_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* AmazingPod_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AmazingPod_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -77,7 +77,6 @@
 				6BA6322C1F165D9E47BE0950 /* Pods-AmazingPod_Tests.debug.xcconfig */,
 				C57999287B18A939909A5D4F /* Pods-AmazingPod_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

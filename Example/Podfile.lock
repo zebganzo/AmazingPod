@@ -1,0 +1,16 @@
+PODS:
+  - AmazingPod (0.1.0)
+
+DEPENDENCIES:
+  - AmazingPod (from `../`)
+
+EXTERNAL SOURCES:
+  AmazingPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AmazingPod: 2a72e8610a11b135a159f46c3257cc0b042d99b9
+
+PODFILE CHECKSUM: b3100001ee21832d49395c47c7c02d66832f7c2d
+
+COCOAPODS: 1.6.0

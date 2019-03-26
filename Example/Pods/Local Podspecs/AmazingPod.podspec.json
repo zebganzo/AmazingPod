@@ -1,0 +1,22 @@
+{
+  "name": "AmazingPod",
+  "version": "0.1.0",
+  "summary": "A short description of AmazingPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sebastiano Catellani/AmazingPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sebastiano Catellani": "sebastiano.catellani@secretescapes.com"
+  },
+  "source": {
+    "git": "https://github.com/Sebastiano Catellani/AmazingPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AmazingPod/Classes/**/*"
+}
