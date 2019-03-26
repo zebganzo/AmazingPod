@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+This is an amazing pod that makes your life miserable. How is it possible? It is up to you to find out!
                        DESC
 
   s.homepage         = 'https://github.com/zebganzo/AmazingPod'
